@@ -2,6 +2,7 @@ package com.maghassan.mobilevision;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
+import android.graphics.Rect;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -19,14 +20,17 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.ml.vision.FirebaseVision;
 import com.google.firebase.ml.vision.common.FirebaseVisionImage;
+import com.google.firebase.ml.vision.document.FirebaseVisionDocumentText;
+import com.google.firebase.ml.vision.document.FirebaseVisionDocumentTextRecognizer;
 import com.google.firebase.ml.vision.text.FirebaseVisionText;
 import com.google.firebase.ml.vision.text.FirebaseVisionTextRecognizer;
+import com.google.firebase.ml.vision.text.RecognizedLanguage;
 
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private TextView    result;
+    private TextView    resultText;
     private ImageView   image;
     private Button  snap,   detect;
     private static final int    REQUEST_IMAGE_CAPTURE   =   1;
@@ -37,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        result  =   findViewById(R.id.result);
+        resultText  =   findViewById(R.id.result);
         image   =   findViewById(R.id.image);
         snap    =   findViewById(R.id.snap);
         detect  =   findViewById(R.id.detect);
@@ -84,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 
         for (FirebaseVisionText.TextBlock   block   :   firebaseVisionText.getTextBlocks()) {
             String  text    =   block.getText();
-            result.setText(text);
+            resultText.setText(text);
         }
     }
 
