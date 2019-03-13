@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "564913364670",
+    "firebase_url": "https://communitychallenge-31497.firebaseio.com",
+    "project_id": "communitychallenge-31497",
+    "storage_bucket": "communitychallenge-31497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564913364670:android:fd54e60493f92b47",
+        "android_client_info": {
+          "package_name": "com.example.velmurugan.detectnoiseandroidexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564913364670-h243vakddlfoc5favlp6rfj1sim0segv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.velmurugan.detectnoiseandroidexample",
+            "certificate_hash": "b6bef5d3d0b5d2796dace5fe9841238b67462171"
+          }
+        },
+        {
+          "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWmU9hp0R3vHegFLmCZQXqMr4Vhvaoyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564913364670:android:7490daae3ba9bad7",
+        "android_client_info": {
+          "package_name": "com.maghassan.mobilevision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564913364670-h53gast5raht1hmdjf0ovao0e9v15opi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maghassan.mobilevision",
+            "certificate_hash": "b0ef249bd12da04a7950cbc8d9525c69c3bef570"
+          }
+        },
+        {
+          "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWmU9hp0R3vHegFLmCZQXqMr4Vhvaoyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564913364670:android:ac23192cd311be13",
+        "android_client_info": {
+          "package_name": "com.maghassan.policealertdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564913364670-0q5efmr454qdvk06f796t54mgevb576e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maghassan.policealertdashboard",
+            "certificate_hash": "b6bef5d3d0b5d2796dace5fe9841238b67462171"
+          }
+        },
+        {
+          "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWmU9hp0R3vHegFLmCZQXqMr4Vhvaoyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564913364670:android:c11d382b6851b1b8",
+        "android_client_info": {
+          "package_name": "ng.com.ioi.projectfarmmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564913364670-2go12j9qe7km1606scpvm1tkvmgnivvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.ioi.projectfarmmart",
+            "certificate_hash": "27d29c4005a966691441738480331e8d9e8ed570"
+          }
+        },
+        {
+          "client_id": "564913364670-irl8ahpo4namldl6fo2uelbane8iafm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.ioi.projectfarmmart",
+            "certificate_hash": "8ba254413d2cf2651b408f166dd1fed969f9155e"
+          }
+        },
+        {
+          "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoWmU9hp0R3vHegFLmCZQXqMr4Vhvaoyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564913364670-a2b4th50rhtgi79gvg9mt2ddp482ffj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
